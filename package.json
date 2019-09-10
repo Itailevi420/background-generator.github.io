@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Itailevi420/background-generator.github.io/issues"
   },
-  "homepage": "https://github.com/Itailevi420/background-generator.github.io#readme"
+  "homepage": "https://github.com/Itailevi420/background-generator.github.io#readme",
+  "dependencies": {
+    "react": "^16.9.0"
+  }
 }
